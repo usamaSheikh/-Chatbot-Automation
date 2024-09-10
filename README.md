@@ -8,7 +8,8 @@ For this simple project, only Python's built-in libraries like sqlite3 are used.
 
 Start the chatbot by running chatbot.py:
   python chatbot.py
-  User Interaction:
+  
+### User Interaction:
 
 The user interacts with the chatbot by asking questions about products, pricing, or support.
 If the user shows interest in products or pricing, the bot collects lead information and stores it in the CRM.
