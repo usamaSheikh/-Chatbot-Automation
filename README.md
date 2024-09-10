@@ -19,7 +19,7 @@ Install Required Dependencies:
 
 ### Run the Chatbot:
 Start the chatbot by running chatbot.py:
-- <br>python chatbot.py
+- python chatbot.py
   
 ### User Interaction:
 The user interacts with the chatbot by asking questions about products, pricing, or support.
