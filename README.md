@@ -7,7 +7,7 @@ For this simple project, only Python's built-in libraries like sqlite3 are used.
 ### Run the Chatbot:
 
 Start the chatbot by running chatbot.py:
-  python chatbot.py
+python chatbot.py
   
 ### User Interaction:
 
