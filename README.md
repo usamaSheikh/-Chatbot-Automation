@@ -31,8 +31,8 @@ After interacting with the chatbot, you can retrieve the stored leads by adding 
 ### Example code to retrieve leads from the database:
 
   from crm import CRM
-  crm_system = CRM()
-  leads = crm_system.get_all_leads()
-  print("Stored Leads:")
-  for lead in leads:
-      print(lead)
+  <br>crm_system = CRM()
+  <br>leads = crm_system.get_all_leads()
+  <br>print("Stored Leads:")
+    <br>for lead in leads:
+      <br>print(lead)
