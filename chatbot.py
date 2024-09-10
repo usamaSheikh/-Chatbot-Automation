@@ -1,5 +1,5 @@
 from crm import CRM
-import random
+import random 
 
 # Initialize CRM system
 crm_system = CRM()
