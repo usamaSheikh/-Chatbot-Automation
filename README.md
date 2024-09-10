@@ -12,7 +12,7 @@ This project demonstrates a custom chatbot for automating customer service and l
 ### Technologies Used:
 - Python
 - SQLite for the CRM system
-- 
+  
 ### How to Run:
 Install Required Dependencies:
 - For this simple project, only Python's built-in libraries like sqlite3 are used. There's no need for external libraries.
